@@ -1,13 +1,6 @@
 # QB-coords
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
+Is a script for see coords of player in screen, this is a utility if u are developing and wanna know fast ur coords
 ## Install
-
 - Download code from GitHub
 - Un-zip folder and put on "\resources\[qb]\"
 - Add in "server.cfg" or "resources.cfg" next line "start qb-coords"
