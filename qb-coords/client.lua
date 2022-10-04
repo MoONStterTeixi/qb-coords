@@ -8,7 +8,6 @@ Citizen.CreateThread(function()
         Citizen.Wait(0)
                 if open then
                         local posx2,posy2,posz2 = table.unpack(GetEntityCoords(GetPlayerPed(-1),false))
-                        tonumber(string.format("%.3f", posx2))
                         SetTextFont(0)
                         SetTextScale(0.0, 0.4)
                         SetTextColour(247, 223, 88, 255)
